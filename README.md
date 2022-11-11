@@ -7,7 +7,7 @@
   <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = "50" height = "50"> &nbsp;
   
   
-  <strong>Languages and Tools which I learn know:</strong> <br> <br>
+  <strong>Languages and Tools which I learn now:</strong> <br> <br>
   
   <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = "50" height = "50"> &nbsp;
   <img src = "https://raw.githubusercontent.com/Murka007/Murka007/main/img/nodejs.svg" width = "50" height = "50"> &nbsp;
