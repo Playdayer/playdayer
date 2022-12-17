@@ -11,8 +11,6 @@
   
   <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = "50" height = "50"> &nbsp;
   <img src = "https://raw.githubusercontent.com/Murka007/Murka007/main/img/nodejs.svg" width = "50" height = "50"> &nbsp;
-  <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width = "50" height = "50"> &nbsp;
-  
   
   <strong>Follow me:</strong> <br> <br>
   <a href = "https://discord.gg/K7C3kq7Azh"> <img src = "https://play-lh.googleusercontent.com/Wvjx6rVlC1rGWKkln3r-23ICKV--sxEEUuq7jd15BeJan8v-wS7TGwm0NHXqqon18w" width = "50" height = "50"> </a> &nbsp;
