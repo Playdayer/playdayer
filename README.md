@@ -4,6 +4,7 @@
   
   <img src = "https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "50" height = "50"> &nbsp;
   <img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" width = "50" height = "50"> &nbsp;
+  <img src = "https://media.discordapp.net/attachments/1022799980777443391/1059851933709516800/canvas.png" width = "50" height = "50"> &nbsp;
   <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = "50" height = "50"> &nbsp;
   <img src = "https://media.discordapp.net/attachments/1012402566547640320/1053411734318231723/webpack-icon.png?width=513&height=513" width = "50" height = "50">
   
