@@ -12,4 +12,5 @@
   <h2><strong>Follow me:</strong></h2>
   <a href = "https://discord.gg/K7C3kq7Azh"> <img src = "https://play-lh.googleusercontent.com/Wvjx6rVlC1rGWKkln3r-23ICKV--sxEEUuq7jd15BeJan8v-wS7TGwm0NHXqqon18w" width = "50" height = "50"> </a> &nbsp;
   <a href = "https://www.youtube.com/channel/UCrnlCMJViU3sjAolodU3hMg"> <img src = "https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width = "50" height = "50"> </a> &nbsp; <br> <br>
+  <h2><strong>My stats:</strong></h2>
   <img src = "https://lanyard.cnrad.dev/api/753563486352572479"> &nbsp;
